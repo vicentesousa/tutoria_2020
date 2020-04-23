@@ -5,6 +5,6 @@
 ### [Hands-on](https://github.com/vicentesousa/projetos_disciplinas/blob/master/h_smart_antennas.ipynb)
 **Objetivos:**
 - Apresentar o que são antenas inteligentes;
-- Apresentar como calcular o ganho de 
-- Apresentar como antenas inteligentes pode ser usadas para aumentar a capacidade de um sistemas.
+- Apresentar como calcular o ganho de algumas estratégias de antenas inteligentes;
+- Apresentar como antenas inteligentes pode ser usadas para aumentar a capacidade de um sistema.
 
