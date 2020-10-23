@@ -4,7 +4,7 @@
 # Criação do Ambiente de Trabalho
 
 ## Hands-on 00: Preparação do ambiente de prática e desenvolvimento (escolher entre UBUNTU 14.04.06 ou 18.04.2 LTS) (31/07/2019)
-https://github.com/vicentesousa/tutoria_2020/blob/master/h00_VM_18.04.ipynb
+
 ### [Criação de máquina virtual Ubuntu (UBUNTU 14.04.06)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_VM.ipynb)
 ### [Criação de máquina virtual Ubuntu (UBUNTU 18.04.2)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_VM_18.04.ipynb)
 **Objetivos:**
