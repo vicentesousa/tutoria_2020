@@ -12,14 +12,14 @@
 - Baixar e criar máquina virtual Ubuntu 14.04 ou o Ubuntu 18.04 no Windows
 
 ### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 14.04.06)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_BJ.ipynb)
-### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.2)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_BJ_18.04.ipynb)
+### [Básico do Jupyter Notebook: Instalação e prática (UBUNTU 18.04.5)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_BJ_18.05.ipynb)
 **Objetivos**
 - Instalar pacotes de suporte ao Jupyter Notebook (Anaconda, nbconvert, pandoc, extensions)
 - Baixar, abrir, editar e criar Notebooks que executem blocos de código de Python (Python 3)
 - Fazer um primeiro uso da linguagem Python 3 dentro dos Notebooks
 
 ### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 14.04.06)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_JM.ipynb)
-### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.2)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_JM_18.04.ipynb)
+### [Jupyter Notebook para Matlab: Instalação de Kernel (UBUNTU 18.04.5)](https://github.com/vicentesousa/tutoria_2020/blob/master/h00_JM_18.05.ipynb)
 **Objetivos**
 - Instalar do Matlab 2015a
 - Instalar suporte ao Matlab no Jupiter Notebook (Kernel do Matlab)
