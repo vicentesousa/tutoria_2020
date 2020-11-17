@@ -61,7 +61,7 @@
 - Estimar a vazão útil via abstração do nível de enlace; 
 - Comparar potência, SINR e vazão de sistemas SISO e SIMO-MRC;
 
-### Hands-on Smart Antennas [Hands-on](https://github.com/vicentesousa/tutoria_2020/blob/master/h_smart_antennas.ipynb)
+### [Hands-on Smart Antennas](https://github.com/vicentesousa/tutoria_2020/blob/master/h_smart_antennas.ipynb)
 **Objetivos:**
 - Apresentar o que são antenas inteligentes;
 - Apresentar como calcular o ganho de algumas estratégias de antenas inteligentes;
