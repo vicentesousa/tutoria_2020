@@ -52,6 +52,15 @@
 - Análise de Outage de potência
 - Análise de Outage de SINR
 
+### [Simulação sistêmica: comportamento da potência recebida e SINR em sistemas com e sem espalhamento espectral](https://github.com/vicentesousa/tutoria_2020/blob/master/h_DSSS.ipynb)
+- Conhecer e implementar análise sistema de uma rede celular;
+- Comparar o comportamento da potência recebida e SINR em sistemas com e sem espalhamento espectral;
+
+### [Simulação sistêmica com abstração do nível de enlace: potência, SINR e vazão SISO e MISO](https://github.com/vicentesousa/tutoria_2020/blob/master/h_vazao.ipynb)
+- Implementar interface enlace-a-sistema para realizar o mapeamento da SINR na BER; 
+- Estimar a vazão útil via abstração do nível de enlace; 
+- Comparar potência, SINR e vazão de sistemas SISO e SIMO-MRC;
+
 ### Hands-on Smart Antennas [Hands-on](https://github.com/vicentesousa/tutoria_2020/blob/master/h_smart_antennas.ipynb)
 **Objetivos:**
 - Apresentar o que são antenas inteligentes;
